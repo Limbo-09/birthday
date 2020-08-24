@@ -34,8 +34,8 @@ You know our 9th and 10th standard were the best because we used to talk like we
 Yr I miss your frivolities and I just hate your abrubt changes in plans. Seriously I hate it.
 But today is your day I miss every bit of us and every bit of our conversation that we do 24*7.
 
-*`Happy Birthday Simran ! :birthday:
-Love you`* 
+*Happy Birthday Simran ! :birthday:
+Love you* 
 
 <img src="pic-01.png" width="300" />      <img src="pic-02.png" width="660" />
 
