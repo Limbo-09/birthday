@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday!</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <style>
+      body {
+        padding: 0;
+        margin: 0;
+      }
+    </style>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
+    <script src="sketch.js"></script>
+
+    <audio id="myAudio">
+      <source src="song.m4a" type="audio/ogg">
+    </audio>
+
+    <script>
+      var x = document.getElementById("myAudio");
+      function playAudio() {
+                              x.play();
+                              x.volume = 0.45;
+                           }
+    </script>
+  </head>
+
+  <body>
+    <button style="position: absolute; right: 3px; top:2px;" onclick="playAudio()" type="button"><i class="fa fa-birthday-cake fa-2x" aria-hidden="true"></i></button>
+  </body>
+
+</html>
