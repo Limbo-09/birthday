@@ -37,5 +37,5 @@ But today is your day i miss every bit of us and evry bit of our conversations t
 *Happy birthday simran !
 Love you* 
 
-<img src="pic-01.png" width="300" /> <img src="pic-02.png" width="500" />
+<img src="pic-01.png" width="300" /> <img src="pic-02.png" width="600" />
 
