@@ -1,6 +1,6 @@
 <img src="dbday.gif" width="450" />
 
-[link to Webpage!](https://limbo-09.github.io/birthday/)
+[link to webpage!](https://limbo-09.github.io/birthday/)
 
 # Table of Wanderlust 
 * [Class VI-A](#class-vi-a)
