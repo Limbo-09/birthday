@@ -1,6 +1,6 @@
 <img src="dbday.gif" width="650" />
 
-### :octocat: [Link to Webpage!](https://limbo-09.github.io/birthday/)
+## :octocat: [Link to Webpage!](https://limbo-09.github.io/birthday/)
 
 # Table of Wanderlust 
 * [Class VI-A](#class-vi-a)
