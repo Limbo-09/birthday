@@ -16,6 +16,5 @@
 
 # A Glimpse of our Sisterhood!
 
-<img src="pic-01.png" width="450" />
-<img src="pic-02.png" width="450" />
+<img src="pic-01.png" width="450" /> <img src="pic-02.png" width="450" />
 
