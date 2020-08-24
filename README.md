@@ -1,4 +1,4 @@
-# Happy B'Day Simran !!
+<img src="dbday.gif" width="350" />
 
 [link to Webpage!](https://limbo-09.github.io/birthday/)
 
@@ -16,5 +16,5 @@
 
 # A Glimpse of our Sisterhood!
 
-<img src="dbday.gif" width="350" />
+
 
