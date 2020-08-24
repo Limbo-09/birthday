@@ -1,4 +1,4 @@
-<img src="dbday.gif" width="350" />
+<img src="dbday.gif" width="450" />
 
 [link to Webpage!](https://limbo-09.github.io/birthday/)
 
