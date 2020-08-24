@@ -9,11 +9,9 @@
 * [A Glimpse of our Sisterhood!](#a-glimpse-of-our-sisterhood)
 
 # Class VI-A
-```
-Those summary day's, talkative class, Punishments , THE PANCHYAATI GROUP (your true friends i should say ) and the sitting arrangements .
+Those summary day's, talkative class, Punishments , `THE PANCHYAATI GROUP` (your true friends i should say ) and the sitting arrangements .
 I thank all these things that happened with you at that time and specially ma'am for giving you opportunity to be my seat mate .
 From that day to now and always , i want you to be with me like we are today , sharing this bond ! Our sisterhood. 
-```
 # Purple Lady Bird 
 > The best thing about our bird was that it taught me "yeh ldki kbhi bhi bole haan haan niklo tyaar hoon" mt nikal bhain mt nikal yeh late kre gi :joy:.
 You know sharing road , talking , discussing about all the worthless things . Remind me of "cycle waale bhaiyaa jo hawa daltee th "
