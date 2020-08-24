@@ -4,7 +4,7 @@
 
 # Table of Wanderlust 
 * [Class VI-A](#class-vi-a)
-* [1 January, 2016](#1st-january-2016)
+* [1<sup>st</sup> January, 2016](#1st-january-2016)
 * [Purple Lady Bird](#purple-lady-bird)
 * [A Glimpse of our Sisterhood!](#a-glimpse-of-our-sisterhood)
 
@@ -19,7 +19,7 @@ From that day to now and always, I want you to be with me like we are today, sha
 The best thing about our bird was that it taught me `" Yeh ldki kbhi bhi bole haan haan niklo tyaar hoon "` mt nikal bhain mt nikal yeh late kregi :joy:.
 You know sharing road, talking, discussing about all the things. Remind me of `"cycle waale bhaiyaa jo hawa daltee thee"`. It's like abhi toh yr hum school jaate th fir kahan chaale gaye... The best part with you was The lady bird.
 
-# 1st January, 2016
+# 1<sup>st</sup> January, 2016
 
 This date is enough to give you flash back of all the scooty rides.
 Or haan aaj bhi pair dard hotaa hai :sweat_smile:
@@ -33,6 +33,7 @@ Thanks for existing in my life and teaching me all good lessons.
 You know our 9th and 10th standard were the best because we used to talk like we don't have anything else to do :sweat_smile:, discussing about exams kaise kya hogaa and every little thing of that time. That made our bond grow much stronger. This is like nostalgia. And yups our excursion to Lucknow won't be that much fun and interesting without you.
 Yr I miss your frivolities and I just hate your abrubt changes in plans. Seriously I hate it.
 But today is your day I miss every bit of us and every bit of our conversation that we do 24*7.
+
 *Happy Birthday Simran ! :birthday:
 Love you* 
 
